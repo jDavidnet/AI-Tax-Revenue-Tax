@@ -15,24 +15,19 @@ Instead of chasing definitions, let’s talk economics. AI and automation = reve
 We can keep it simple with a Revenue Tax on gross receipts—the same broad base other states and countries already use—but dial it in so it rewards local wages. It's a win-win.  Done right, it could be a PR win for AI and a roadmap for the broader future as AI integrated deeper into our lives.  We should align AI and automation as a benefactor for us all.
 
 The Quick Pitch
-1.      0.5 % gross-receipts skim on every California dollar a business rings up.
-
-2.      Wage rebate:
- * * 1 % back on every CA payroll dollar. ( 2x the revenue tax )
- * * 3 % back when that dollar goes to someone re-entering the workforce (parent, mom, dad, veteran, grad, student, sabbatical return, unhoused, etc). [6x the revenue tax]
-
-3.      Mom-and-Pop/ Main St. Shield: If annual CA revenue ≤ $5 M, apply the state 7.25 % sales tax you already collect—bill drops to zero. (could become a progressive scale )
+ 1. 0.5 % gross-receipts skim on every California dollar a business rings up.
+ 2. Wage rebate:
+    * 1 % back on every CA payroll dollar. ( 2x the revenue tax )
+    * 3 % back when that dollar goes to someone re-entering the workforce (parent, mom, dad, veteran, grad, student, sabbatical return, unhoused, etc). [6x the revenue tax]
+ 3. Mom-and-Pop/ Main St. Shield: If annual CA revenue ≤ $5 M, apply the state 7.25 % sales tax you already collect—bill drops to zero. (could become a progressive scale )
 
 Net result: could reach $10 B a year. Big, low-labor firms foot most of the bill; small, payroll-heavy shops feel nothing.
 
 Why It Works (plain-speak)
-*         Bots can’t hide revenue. Skimming gross receipts catches every automated dollar before it can be hidden as an expense.
-
-*         Paychecks erase the tax. Hire or give raises → your bill shrinks automatically.
-
-*         No double-tax pain. Corner stores under $5 M already send in sales tax—now that wipes their slate clean.
-
-*         Big Tech can automate all it wants. Just share 0.5 % of the upside or recycle that cash into CA wages.  Aligns AI Growth, with Wage Growth ( already taxed )
+ * Bots can’t hide revenue. Skimming gross receipts catches every automated dollar before it can be hidden as an expense.
+ * Paychecks erase the tax. Hire or give raises → your bill shrinks automatically.
+ * No double-tax pain. Corner stores under $5 M already send in sales tax—now that wipes their slate clean.
+ * Big Tech can automate all it wants. Just share 0.5 % of the upside or recycle that cash into CA wages.  Aligns AI Growth, with Wage Growth ( already taxed )
 
 
 There are so many ways to grow capital, and AI adds to the list.  Just add the number of bots, machines, or robots you need to get a job done. It's a force multiplier; it's possible to imagine companies in the future that don't have any employees at all.  Between AI and Crypto Smart Contracts, people are certainly trying.  This is about creating a playbook to rebalance the equation and to create a fair playing field for everyone.  We don't yet have an abundant society where everything is free; we might never get there. So, until that day, people need jobs and a good wage.  It's ethical to encourage paying a fair wage, but that's not what we do now.
