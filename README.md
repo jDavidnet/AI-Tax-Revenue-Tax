@@ -1,7 +1,7 @@
 # AI-Tax-Revenue-Tax
 A plan to tax AI, Automation, Outsourcing at the state level and then national level with a Corporate Revenue Tax
 
-### Premise
+## Premise
 
 California is the world leader in AI research and deployment, and now—more than ever—people are looking over their shoulder, wondering if a bot is about to take their job. We need to act now, set the tone, and show how the gains from AI can be shared with everyone, not just the biggest balance sheets.
 
@@ -11,7 +11,7 @@ Instead of chasing definitions, let’s talk economics. AI and automation = reve
 
 We can keep it simple with a Revenue Tax on gross receipts—the same broad base other states and countries already use—but dial it in so it rewards local wages. It's a win-win.  Done right, it could be a PR win for AI and a roadmap for the broader future as AI is integrated deeper into our lives.  We should align AI and automation as a benefactor for us all.
 
-#### The Quick Pitch
+### The Quick Pitch
  1. **0.5 %** gross-receipts skim on every California dollar a business rings up.
  2. **Wage rebate**:
     * **1 %** back on every CA payroll dollar. ( **2x** the revenue tax )
@@ -20,7 +20,7 @@ We can keep it simple with a Revenue Tax on gross receipts—the same broad base
 
 Net result: could reach $10 B a year in CA. Big, low-labor firms foot most of the bill; small, payroll-heavy shops feel nothing.
 
-#### Why It Works (tldr; direct)
+### Why It Works (tldr; direct)
  * Bots can’t hide revenue. Skimming gross receipts catches every automated dollar **before it can be hidden as an expense**.
  * Paychecks erase the tax. Hire or give raises → your bill shrinks automatically.
  * No double-tax pain. Corner stores under $5 M already send in sales tax—now that wipes their slate clean.
